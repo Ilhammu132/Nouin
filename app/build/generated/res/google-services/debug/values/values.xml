@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">533022832778-3d065qi9un1h0e9jcvle9jic47cb8pqh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">533022832778</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEHCNTp0eWYwndov0OfYaYRkpn9NRWSSg</string>
+    <string name="google_app_id" translatable="false">1:533022832778:android:0864df1aa46954df0d9573</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEHCNTp0eWYwndov0OfYaYRkpn9NRWSSg</string>
+    <string name="google_storage_bucket" translatable="false">nouin-f3e3f.appspot.com</string>
+    <string name="project_id" translatable="false">nouin-f3e3f</string>
+</resources>

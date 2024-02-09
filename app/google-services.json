@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "533022832778",
+    "project_id": "nouin-f3e3f",
+    "storage_bucket": "nouin-f3e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533022832778:android:0864df1aa46954df0d9573",
+        "android_client_info": {
+          "package_name": "com.project.tokoai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533022832778-3d065qi9un1h0e9jcvle9jic47cb8pqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEHCNTp0eWYwndov0OfYaYRkpn9NRWSSg"
+        }
+      ],
+      "rules": {
+        ".write": true
+      },
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533022832778-3d065qi9un1h0e9jcvle9jic47cb8pqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
